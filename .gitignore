@@ -1,0 +1,61 @@
+# Compiled Object files
+*.o
+*.schobj
+
+# Libraries
+*.lib
+
+# Folders
+fp-info
+fp-lib-table
+
+# Cache
+cache*
+
+# DRC
+*.drc
+
+# Autorouter
+*.ses
+
+# Bill of Materials
+*.xml
+
+# 3D models
+*.stp
+*.step
+*.wrl
+
+# Gerber files
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gtp
+*.gto
+*.gbp
+*.gbo
+*.gbd
+
+# Excellon files
+*.drl
+
+# IPC-D-356 Netlist
+*.ipc
+
+# SPDX files
+*.spdx
+
+# Backup files
+*~
+*.bak
+
+# Generated PNG images
+*.png
+
+# Production Print
+*.pdf
+
+# Project-specific stuff
+*.pro
