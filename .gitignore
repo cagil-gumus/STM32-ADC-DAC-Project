@@ -51,9 +51,6 @@ cache*
 *~
 *.bak
 
-# Generated PNG images
-*.png
-
 # Production Print
 *.pdf
 
