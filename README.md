@@ -12,4 +12,3 @@ Following things I want to learn:
 ![Rough Plan](./rough-plan.png)
 
 I will follow this video: https://www.youtube.com/watch?v=aVUqaB0IMh4
-

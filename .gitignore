@@ -51,8 +51,6 @@ cache*
 *~
 *.bak
 
-# Production Print
-*.pdf
 
 # Project-specific stuff
 *.pro

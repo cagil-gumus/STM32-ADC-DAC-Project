@@ -568,7 +568,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -582,6 +582,18 @@
     [
       "0267f61e-1f1e-47a0-bcb7-f00f10e9d8db",
       "Root"
+    ],
+    [
+      "0b6e8a9a-701a-44fb-b961-fd4769070f35",
+      "USB & Power"
+    ],
+    [
+      "4dcd85dd-b42b-4764-90cc-404ed16ba3ea",
+      "Analog Front End"
+    ],
+    [
+      "6b1462cf-54cd-49b5-bb03-ea1706ae49e5",
+      "Digital"
     ]
   ],
   "text_variables": {}
